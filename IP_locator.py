@@ -5,7 +5,6 @@ import requests
 to implement a simple GET request. Additional resources used for GET specific information from 'Socket programing
 HOWTO' docs pages: https://docs.python.org/3/howto/sockets.html
 
-
 Instructions:
 Ensure socket, request, and json libraries are installed in local system  and imported.
 Copy get_external_ip() and get_ip_loc() functions from ip_locator to user service.
